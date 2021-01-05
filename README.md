@@ -137,15 +137,15 @@ This way you create a nested structure:
     "friends": [
         {
             "id": 1,
-            "name": "MackenzieHamphrey"
+            "name": "Mackenzie Hamphrey"
         },
         {
             "id": 2,
-            "name": "MelanieMolligan"
+            "name": "Melanie Molligan"
         },
         {
             "id": 3,
-            "name": "SydneyCalhoun"
+            "name": "Sydney Calhoun"
         }
     ]
 }
